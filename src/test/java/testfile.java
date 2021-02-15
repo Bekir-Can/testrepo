@@ -8,7 +8,7 @@ public class testfile {
         System.out.println("\"sinan akalin \" = " + "");
 
         // 9.chapter 1.part
-        // 2.part
+        // 4.part
       
 
     }
